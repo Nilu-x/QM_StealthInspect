@@ -16,3 +16,6 @@ It's clearly intentional that they want this, so keep in mind it may have balanc
 I like to be able to recon without the tedium of standing up before inspecting every enemy in a room, but of course it's personal preference.
 
 This mod should only change what happens when the player is sneaking and changes direction/inspects a creature.
+
+### Steam Workshop
+https://steamcommunity.com/sharedfiles/filedetails/?id=3422410377
