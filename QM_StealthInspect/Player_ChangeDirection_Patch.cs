@@ -13,7 +13,7 @@ namespace QM_StealthInspect
             // If we don't want to trigger AP penalties, force markActionFlag to false
             if (__instance.FreeInventoryUse)
             {
-                Debug.Log("[QM_StealthInspect] Preventing AP penalty by forcing markActionFlag to false.");
+                //Debug.Log("[QM_StealthInspect] Preventing AP penalty by forcing markActionFlag to false.");
                 markActionFlag = false;  // This prevents the game from setting AnyActionProcessedFlag to true
             }
         }
